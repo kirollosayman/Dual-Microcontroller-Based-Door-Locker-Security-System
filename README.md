@@ -1,0 +1,2 @@
+# Dual-Microcontroller-Based-Door-Locker-Security-System
+Develop a secure and efficient smart door control system. It  uses two microcontrollers, HMI_ECU and Control_ECU, which communicate via UART. The system implements password authentication, stores data in external EEPROM, and integrates additional components such as a PIR sensor, H-bridge motor control, and a buzzer for enhanced functionality.
